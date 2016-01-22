@@ -1,0 +1,29 @@
+Numele fisierului: .\test.xml
+	Numarul de propozitii: 688
+	Numarul de cuvinte: 5397
+	Numarul de EM: 36
+	Emotii:
+		"satisfacție": 1
+		"curiozitate": 9
+		"admirație": 7
+		"amuzament": 11
+		"neliniște": 1
+		"enervare": 1
+		"atașament": 3
+		"apreciere": 3
+
+
+
+
+Numarul total de propozitii: 688
+Numarul total de cuvinte: 5397
+Numarul total de EM: 36
+Numarul total de emotii:
+	Total "satisfacție": 1
+	Total "curiozitate": 9
+	Total "admirație": 7
+	Total "amuzament": 11
+	Total "neliniște": 1
+	Total "enervare": 1
+	Total "atașament": 3
+	Total "apreciere": 3

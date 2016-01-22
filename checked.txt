@@ -1,0 +1,20 @@
+---------------------------------------------
+Atentie! Tagul "type" trebuie sa contina: 
+- admirație 
+- amuzament 
+- apreciere 
+- atașament 
+- curiozitate 
+- dispreț 
+- enervare 
+- incertitudine 
+- neliniște 
+- neplăcere 
+- satisfacție 
+---------------------------------------------
+
+
+Numele fisierului: .\test.xml
+	Fisierul este OK!
+
+
